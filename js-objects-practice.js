@@ -17,11 +17,32 @@
 // const snakewaterMontana = {
 //     paleontologist: 'Dr. Alan Grant',
 //     depth: '10 meters',
-//     speciment: 'Velociraptor'
+//     specimens: 'Velociraptor'
 // }
 
 // // console.log(snakewaterMontana)
 
 // let guestOfHonor = snakewaterMontana.paleontologist
-// let cleverGirl = snakewaterMontana.speciment
+// let cleverGirl = snakewaterMontana.specimens
 // console.log(cleverGirl)
+
+// const nicaragua = {
+//     depth: '200 meters',
+//     annualBudget: 1500000,
+//     specimens: [
+//         'Tyrannosaurus Rex',
+//         'Stegosaurous',
+//         'Triceratops',
+//         'Velociraptor'
+//     ]
+// }
+
+// let nicaraguaSpecimens = nicaragua.specimens
+// // console.log(nicaraguaSpecimens)
+
+// let favoriteSpecimen = nicaragua.specimens[1]
+// // console.log(favoriteSpecimen)
+
+// let bonus = nicaragua.annualBudget + 250000
+// console.log(bonus)
+
